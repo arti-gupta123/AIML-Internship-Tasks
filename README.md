@@ -1,43 +1,76 @@
-# AIML Internship Tasks
+AIML Internship – September 2025
 
-This repository contains the assignments completed as part of the *AIML Internship (Badkul Technology)*.
+Domain: Artificial Intelligence & Machine Learning
+Registration Number: 105
 
----
+📌 Overview
 
-## 📌 Tasks Completed
+This repository contains the solutions for the AI/ML Internship September 2025 assignments.
+Both tasks are implemented in Python using Jupyter Notebooks (Kaggle environment).
 
-### Task 1: Titanic Disaster Prediction
-- *Dataset*: Titanic dataset (Kaggle)  
-- *Objective*: Predict whether a passenger survived or not.  
-- *Techniques Used*:
-  - Data cleaning & preprocessing
-  - Exploratory Data Analysis (EDA)
-  - Logistic Regression / Decision Tree models
-- *File*: Task1_Titanic_Disaster.ipynb
+📝 Tasks
+🔹 Task 1: Titanic Disaster – Survival Prediction
 
----
+Objective: Predict whether a passenger survived the Titanic disaster using machine learning models.
 
-### Task 2: House Prices Prediction
-- *Dataset*: House Prices dataset (Kaggle)  
-- *Objective*: Predict house sale prices based on given features.  
-- *Techniques Used*:
-  - Feature engineering
-  - Regression models
-  - Performance evaluation (R² score, RMSE)
-- *File*: Task2_House_Prices.ipynb
+Dataset: Titanic dataset (train.csv, test.csv)
 
----
+Steps Performed:
 
-## 🚀 How to Run
-1. Download the .ipynb files from this repository.  
-2. Open in Kaggle.  
-3. Install required libraries (pandas, numpy, matplotlib, seaborn, scikit-learn).  
-4. Run the notebook step by step.  
+Data cleaning & preprocessing
 
----
+Exploratory Data Analysis (EDA)
 
-## ✅ Submission
-This repository is created for internship task submission.  
-All tasks are organized and uploaded here.  
+Feature engineering
 
----
+Model building using Logistic Regression & Decision Tree
+
+Evaluation with accuracy score
+
+Output: Survival prediction for passengers.
+
+📄 Notebook: Task1_Titanic_Disaster.ipynb
+
+🔹 Task 2: House Prices – Advanced Regression
+
+Objective: Predict house prices based on various features using regression models.
+
+Dataset: House Prices dataset (train.csv, test.csv)
+
+Steps Performed:
+
+Data preprocessing (handling missing values, encoding)
+
+Feature selection & transformation
+
+Model training using Linear Regression, Random Forest
+
+Hyperparameter tuning
+
+Evaluation with RMSE (Root Mean Squared Error)
+
+Output: Predicted house prices for test dataset.
+
+📄 Notebook: Task2_House_Prices.ipynb
+
+⚙️ Tools & Technologies
+
+Python
+
+Pandas, NumPy
+
+Matplotlib, Seaborn (for EDA)
+
+Scikit-learn (ML models)
+
+Kaggle Notebooks
+
+GitHub
+
+📬 Submission Details
+
+Repository Name: BT-AI-ML-SEP-2025-105
+
+Submission Date: 15th September 2025
+
+Internship Provider: Badkul Technology
