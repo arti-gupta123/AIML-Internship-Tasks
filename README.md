@@ -1,7 +1,8 @@
 AIML Internship – September 2025
 
 Domain: Artificial Intelligence & Machine Learning
-Registration Number: 105
+
+Registration Number : 105
 
 📌 Overview
 
